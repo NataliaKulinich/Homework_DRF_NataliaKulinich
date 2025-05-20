@@ -1,0 +1,34 @@
+    <loan>
+            <LoanID> 002456789 </LoanID>
+            <AppID> "003456"</AppID>
+            <ProdId> "501" </ProdId>
+            <Debtor> "456321" </Debtor>
+            <OrgUnitID>"45698776" </OrgUnitID>
+            <LoanSum> "100000.00" </LoanSum>
+            <LoanCurr> "UAH" </LoanCurr>
+            <StartDate> "20-01-2025"</StartDate>
+            <DateEnd> "20-07-2025" </DateEnd>
+            <LoanCond> 9.5 </LoanCond>
+            <PaymentDay> 20 </PaymentDay>
+            <addCollateral> false </addCollateral>
+            <LoanPaymentScedule>
+                <Scedule>
+                    <MonthNum> 2 </MonthNum>
+                    <Payment> "20000" </Payment>
+                </Scedule>
+                <Scedule>
+                    <MonthNum> 4 </MonthNum>
+                    <Payment> "30000" </Payment>
+                </Scedule>
+                <Scedule>
+                    <MonthNum> 6 </MonthNum>
+                    <Payment> 40000 </Payment>
+                </Scedule>
+                <Scedule>
+                    <MonthNum> 7 </MonthNum>
+                    <Payment> "10000" </Payment>
+                </Scedule>
+            </LoanPaymentScedule>
+            <LoanAccount>"UA12345678901234"</LoanAccount>
+   </loan> 
+

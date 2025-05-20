@@ -1,0 +1,37 @@
+{
+    "loan": [
+        {
+            "LoanID": "002456789",
+            "AppID": "003456",
+            "ProdId": "501",
+            "Debtor": "456321",
+            "OrgUnitID": "45698776",
+            "LoanSum": "100000.00",
+            "LoanCurr": "UAH",
+            "StartDate": "20-01-2025",
+            "DateEnd": "20-07-2025",
+            "LoanCond": 9.5,
+            "PaymentDay": 20,
+            "addCollateral": false,
+            "LoanPaymentScedule": [
+                {
+                    "MonthNum": 2,
+                    "Payment": "20000"
+                },
+                {
+                    "MonthNum": 4,
+                    "Payment": "30000"
+                },
+                {
+                    "MonthNum": 6,
+                    "Payment": "40000"
+                },
+                {
+                    "MonthNum": 7,
+                    "Payment": "10000"
+                }
+            ],
+            "loanAccount": "UA12345678901234"
+        }
+    ]
+}
