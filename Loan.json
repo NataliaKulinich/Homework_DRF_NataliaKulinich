@@ -16,19 +16,19 @@
             "LoanPaymentScedule": [
                 {
                     "MonthNum": 2,
-                    "Payment": 20000
+                    "Payment": 20000.00
                 },
                 {
                     "MonthNum": 4,
-                    "Payment": 30000
+                    "Payment": 30000.00
                 },
                 {
                     "MonthNum": 6,
-                    "Payment": 40000
+                    "Payment": 40000.00
                 },
                 {
                     "MonthNum": 7,
-                    "Payment": 10000
+                    "Payment": 10000.00
                 }
             ],
             "loanAccount": "UA12345678901234"

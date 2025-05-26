@@ -14,19 +14,19 @@
             <LoanPaymentScedule>
                 <Scedule>
                     <MonthNum>2</MonthNum>
-                    <Payment>20000</Payment>
+                    <Payment>20000.00</Payment>
                 </Scedule>
                 <Scedule>
                     <MonthNum>4</MonthNum>
-                    <Payment>30000</Payment>
+                    <Payment>30000.00</Payment>
                 </Scedule>
                 <Scedule>
                     <MonthNum>6</MonthNum>
-                    <Payment>40000</Payment>
+                    <Payment>40000.00</Payment>
                 </Scedule>
                 <Scedule>
                     <MonthNum>7</MonthNum>
-                    <Payment>10000</Payment>
+                    <Payment>10000.00</Payment>
                 </Scedule>
             </LoanPaymentScedule>
             <LoanAccount>UA12345678901234</LoanAccount>
